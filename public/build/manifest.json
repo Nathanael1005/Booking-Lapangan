@@ -1,0 +1,44 @@
+{
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons-999550fa.woff",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+  },
+  "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons-cfe45b98.woff2",
+    "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+  },
+  "resources/images/deportes.jpg": {
+    "file": "assets/deportes-dc848fa2.jpg",
+    "src": "resources/images/deportes.jpg"
+  },
+  "resources/images/icon1.png": {
+    "file": "assets/icon1-489bffec.png",
+    "src": "resources/images/icon1.png"
+  },
+  "resources/images/lap1.jpg": {
+    "file": "assets/lap1-6ee6f0ac.jpg",
+    "src": "resources/images/lap1.jpg"
+  },
+  "resources/images/lap2.jpg": {
+    "file": "assets/lap2-e9287875.jpg",
+    "src": "resources/images/lap2.jpg"
+  },
+  "resources/images/lap3.jpg": {
+    "file": "assets/lap3-168ccbfe.jpg",
+    "src": "resources/images/lap3.jpg"
+  },
+  "resources/images/logo.png": {
+    "file": "assets/logo-21748173.png",
+    "src": "resources/images/logo.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-c1097373.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-93daf664.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}
